@@ -1,11 +1,16 @@
 _repo: Blackie-s-Books-for-Young-People-1899_66445
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66445-h/images/cover.jpg
 creator:
   author:
     agent_name: Son, Blackie &
     gutenberg_agent_id: '53815'
     url: http://www.gutenberg.org/2009/agents/53815
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66445#Blackie-s-Books-for-Young-People-1899
 gutenberg_issued: '2021-10-02'
 identifiers:
   gutenberg: '66445'
